@@ -1,0 +1,259 @@
+<mxfile host="app.diagrams.net" modified="2024-03-18T19:02:26.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="DBPHeYoo5gD8vBP-jTbr" type="device">
+  <diagram id="ZTtfLSR6zcDVrjAuA5Wj" name="Página-1">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-1" value="Selección de casos de uso para el Sistema de mensajería" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQ7cm5xQIB4jLY2V5Trf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-3" value="Casos de uso para el Sistema de mensajería" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQ7cm5xQIB4jLY2V5Trf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-5" value="Selección de casos de uso para la gestion de alertas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NQ7cm5xQIB4jLY2V5Trf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-10" value="Selección de casos de uso para la gestion de alertas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-11" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NQ7cm5xQIB4jLY2V5Trf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-12" value="Casos de uso para la gestion de alertas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="310" as="sourcePoint" />
+            <mxPoint x="760" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-14" value="Desarrollo de la gestión de alertas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-15" value="Desarrollo del listado de alertas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="309.5" as="sourcePoint" />
+            <mxPoint x="920" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-18" value="Desarrollo de la obtención de alertas del middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="309.5" as="sourcePoint" />
+            <mxPoint x="1080" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-20" value="Desarrollo del filtro de alertas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="309.5" as="sourcePoint" />
+            <mxPoint x="1240" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-22" value="Desarrollo de la validación filtro de alertas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="309.5" as="sourcePoint" />
+            <mxPoint x="1400" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-24" value="Desarrollo del módulo de envío de alertas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="309.5" as="sourcePoint" />
+            <mxPoint x="1560" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-27" value="Desarrollo de la validación de una alerta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="309.5" as="sourcePoint" />
+            <mxPoint x="1560" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="309.5" as="sourcePoint" />
+            <mxPoint x="1720" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-34" value="Casos de uso para la gestion de mensajes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="470" as="sourcePoint" />
+            <mxPoint x="760" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-36" value="Desarrollo de la gestión de mensajes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-37" value="Desarrollo del listado de conversaciones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="469.5" as="sourcePoint" />
+            <mxPoint x="920" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-39" value="Desarrollo de la obtención de conversaciones del middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="469.5" as="sourcePoint" />
+            <mxPoint x="1080" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-41" value="Desarrollo del filtro de conversaciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="469.5" as="sourcePoint" />
+            <mxPoint x="1240" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-43" value="Desarrollo de la validación filtro de conversaciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="469.5" as="sourcePoint" />
+            <mxPoint x="1400" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-45" value="Desarrollo del módulo de envío de mensajes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="469.5" as="sourcePoint" />
+            <mxPoint x="1720" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-47" value="Desarrollo de la validación de un mensajes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="469.5" as="sourcePoint" />
+            <mxPoint x="1720" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="469.5" as="sourcePoint" />
+            <mxPoint x="1880" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-50" value="Desarrollo de la obtención de mensajes dentro de una conversación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQ7cm5xQIB4jLY2V5Trf-43" target="NQ7cm5xQIB4jLY2V5Trf-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="350" as="sourcePoint" />
+            <mxPoint x="1630" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NQ7cm5xQIB4jLY2V5Trf-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="470" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQ7cm5xQIB4jLY2V5Trf-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="350" as="sourcePoint" />
+            <mxPoint x="2040" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQ7cm5xQIB4jLY2V5Trf-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="350" as="sourcePoint" />
+            <mxPoint x="2040" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2040" y="470" as="sourcePoint" />
+            <mxPoint x="2040" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2040" y="389.5" as="sourcePoint" />
+            <mxPoint x="2080" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-58" value="Integración del sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2200" y="390" as="sourcePoint" />
+            <mxPoint x="2240" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQ7cm5xQIB4jLY2V5Trf-60" value="Deployment del sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

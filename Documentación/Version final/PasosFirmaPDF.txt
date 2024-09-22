@@ -1,0 +1,14 @@
+1. Escanear la firma en papel
+2. Generar PDF con la firma
+3. Entrar a Acrobar Reader
+4. Abrir Menú. Arriba a la izquierda
+5. Abrir "Preferencias".
+6. Seleccionar "Firmas"
+7. Seleccionar en Creación y aspecto. El botón "Más"
+8. En el apartado "Aspectos". Crear "Nuevo"
+9. Poner un titulo a la firma.
+10. En configurar gráfico. Seleccionar "Gráfico importado"
+11. Importar el archivo PDF con la firma.
+12. En configurar texto. Desmarcar "Logotipo".
+13. Darle a "Aceptar"
+14. Al firmar con certificado seleccionar el aspecto creado.

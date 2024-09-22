@@ -1,0 +1,37 @@
+1 Introducción breve
+
+2 Herramientas y técnicas
+	1. **Lista de Verificación (checklist)**:
+	   - Una lista de verificación es un documento que enumera los puntos clave que deben revisarse, cumplirse o tenerse en cuenta durante la ejecución de un proceso o proyecto. En el contexto de la gestión de calidad, una lista de verificación incluiría todas las políticas, procesos y procedimientos relevantes del proyecto y la organización. Su propósito es asegurar que se cumplan todas las especificaciones y requisitos establecidos, garantizando así la calidad del proyecto.
+
+	2. **Entrevistas Estructuradas**:
+	   - Las entrevistas estructuradas son un método sistemático de recolección de datos que sigue un conjunto de preguntas predefinidas y organizadas. En el contexto de la gestión de calidad, se utilizan para revisar cómo se están implementando las prácticas, identificar diferencias entre lo planificado y lo ejecutado, y recopilar información sobre posibles áreas de mejora. Estas entrevistas suelen realizarse a diferentes miembros del equipo del proyecto, partes interesadas clave o expertos en la materia.
+
+	3. **Revisión de Documentos**:
+	   - Esta técnica implica examinar documentos relacionados con el proyecto y la calidad, como los planes de gestión de calidad, informes de progreso, registros de incidencias, entre otros. La revisión de documentos es esencial para evaluar si se están siguiendo los procedimientos establecidos, identificar desviaciones o problemas, y asegurarse de que se están cumpliendo los estándares de calidad establecidos.
+
+	4. **Matriz de Auditoría**:
+	   - Una matriz de auditoría es una herramienta que organiza los datos recopilados durante una auditoría, mostrando la relación entre los criterios de auditoría, la evidencia recopilada, los hallazgos identificados y las acciones recomendadas. Esta matriz facilita la comparación, priorización y seguimiento de mejoras en el sistema de gestión de calidad. Puede incluir columnas para los criterios de auditoría, los documentos revisados, las observaciones encontradas, las recomendaciones de mejora y el estado de implementación de dichas recomendaciones.
+
+	5. **Informe de Auditoría**:
+	   - Un informe de auditoría es un documento formal que comunica el proceso, los resultados y las conclusiones de una auditoría realizada en el proyecto o el sistema de gestión de calidad. Este informe permite registrar objetivamente los hallazgos, respaldar la toma de decisiones y acciones de mejora, y proporcionar una evaluación independiente del cumplimiento de los estándares y requisitos establecidos.
+
+	6. **Software de Gestión (ISOTools)**:
+	   - El software de gestión, como ISOTools, es una herramienta tecnológica diseñada para facilitar la implementación, el seguimiento y la mejora continua de los sistemas de gestión de calidad, incluyendo aquellos basados en normativas como ISO 9001. Estas herramientas proporcionan funcionalidades como la documentación y control de procesos, la gestión de documentos, el seguimiento de acciones de mejora, la realización de auditorías internas, entre otros. Su objetivo es optimizar la eficiencia, la transparencia y la conformidad con los estándares de calidad establecidos.
+	   
+3 Beneficios
+	1. **Evaluación imparcial del sistema**:
+	   - La realización de auditorías de calidad permite una evaluación objetiva e imparcial del sistema de gestión de calidad de un proyecto u organización. Esto proporciona una visión clara de la efectividad del sistema y su grado de cumplimiento con respecto a los estándares y requisitos establecidos.
+
+	2. **Comunicación transparente de desviaciones y áreas de mejora**:
+	   - Las auditorías identifican desviaciones y áreas de mejora en el sistema de gestión de calidad. Comunicar estas desviaciones de manera transparente a los auditados permite que comprendan los puntos en los que se pueden realizar mejoras y cómo afectan al cumplimiento de los objetivos de calidad del proyecto u organización.
+
+	3. **Desarrollo de un plan de acciones correctivas**:
+	   - La identificación de deficiencias durante una auditoría conlleva el desarrollo de un plan de acciones correctivas para abordar y corregir estas deficiencias. Este plan define claramente las acciones necesarias, los responsables y los plazos para implementar las mejoras necesarias en el sistema de gestión de calidad.
+
+	4. **Control y seguimiento de las acciones correctivas**:
+	   - Una vez establecido el plan de acciones correctivas, es crucial controlar y dar seguimiento al cumplimiento de estas acciones por parte de la dirección y el personal involucrado. Esto garantiza que las mejoras se implementen de manera efectiva y oportuna, y que se corrijan las deficiencias identificadas durante la auditoría.
+
+	5. **Fomento de una cultura de calidad y compromiso**:
+	   - La realización periódica de auditorías de calidad y el enfoque en la mejora continua fomentan una cultura organizacional centrada en la calidad y el compromiso con la excelencia. Al involucrar al personal en el proceso de auditoría y al demostrar el compromiso de la dirección con la mejora continua, se promueve un ambiente de trabajo en el que la calidad se valora y se persigue activamente en todas las actividades y procesos.
+4 Ejemplo

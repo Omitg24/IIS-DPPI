@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-03-11T02:10:53.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="uYsjUReXYwApVjPLC4aY" version="23.1.5" type="device">
+  <diagram name="Página-1" id="5RfVA0bBc-xrblcsQICv">
+    <mxGraphModel dx="1716" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="81ejtT8QZhNjryErxtie-1" value="Desarrollo de componente de geoposicionamiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="783.75" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="81ejtT8QZhNjryErxtie-8" target="81ejtT8QZhNjryErxtie-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-8" value="Seleccion de casos de uso para el sistema de vehiculos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="788.75" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="81ejtT8QZhNjryErxtie-11" target="81ejtT8QZhNjryErxtie-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-11" value="Casos de uso relativos al sistema de vehiculos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="783.75" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="81ejtT8QZhNjryErxtie-13" target="81ejtT8QZhNjryErxtie-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-13" value="Selección de casos de uso para el componente de geoposicionamiento" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="786.25" width="165" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="81ejtT8QZhNjryErxtie-17" target="81ejtT8QZhNjryErxtie-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81ejtT8QZhNjryErxtie-17" value="Casos de uso relativos al componente de geoposicionamiento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="782.5" width="160" height="72.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

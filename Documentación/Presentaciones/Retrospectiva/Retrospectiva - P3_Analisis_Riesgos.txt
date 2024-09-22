@@ -1,0 +1,24 @@
+Mala gestion recursos ---------------- X
+Cambios funcionalidad ---------------- X
+Subestimacion del desarrollo --------- X
+Acceso fraudulento ------------------- X
+Retraso entrega ---------------------- X
+Fuga de datos ------------------------ No es cosa del sistema
+Perdidas de datos -------------------- X
+Interrupciones red ------------------- X Alta no pude ser
+Fallo de luz ------------------------- Mal argumento estan los SAI de hardware
+Limite usuarios ---------------------- Se puede llegar a argumentar
+Costos sobreelevados ----------------- X
+Cambio normativa --------------------- X
+Interoperabilidad -------------------- X
+Baja equipo -------------------------- X
+Tiempo respuestas -------------------- Chapuzas no vale
+Mantenimiento servidor --------------- X es un contrato aparte
+
+
+______________________________
+|                            |
+|    X ---------- No sirve   |
+|                            |
+|____________________________|
+

@@ -1,0 +1,18 @@
+
+
+Mirar para meter el diccionario de palabras como el final 
+Mercu -> revisar el indice de abreviaturas
+
+
+
+-----------------------------NOTAS DE LA REVISIÓN
+Mirar lo del PBS -> diagrama de los productos del WBS               no meter muchos niveles, quedarse en los paquetes de los módulos -> mercu
+meter otros costes -> mercu
+Meter en el analisis un caso de uso gordo con todo el sistema -> david
+referenciar el anexo de de las zonas para que tenga más sentido el tenerlo abajo -> Omar
+master del jefe de proyecto -> indicar que tiene que ser un master -> Omar
+meter un poco de holgura si es que en un riesgo hablamos de una reserva de contingencia -> no meter el dinero de holgura
+
+apartado en la presentación de trazabilidad -> Todos
+
+

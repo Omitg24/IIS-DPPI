@@ -1,0 +1,41 @@
+Presentaciones DPPI
+
+----------------------------------------------------------------------------
+Estimacion Grupo 10
+
+- De donde vienen las funciones que se solicitan
+- Delphi estimar las horas de las funciones por separado para dar la suma total
+
+-----------------------------------------------------------------------------
+Planificacion **Nuestro** Grupo 11
+
+- Separar planificacion del proyecto de la memoria
+- Crear la planificacion del proyecto de teleasistencia que se esta realizando
+- Desglose de tareas en un tiempo determinado para el Project dedicado al desarrollo del 	sistema de telecomunicaciones
+
+			|--------------------------------|
+
+Estimacion **Nuestro** Grupo 11
+
+- Buen desglose de la presentación
+- Reajustar los factores de los modulos son MUY IMPORTATES
+- Dar otra iteración a las funciones de los modulos
+- Realizar el delphi desglosando os modulos por sus funciones
+- Registros maestros **Factor 8**, te pregunta si se estan actualizando por pantalla o de forma automatica
+
+-----------------------------------------------------------------------------
+Estimacion Grupo 12
+
+- Desglose pantallas, consultas
+- Estimacion horas segun desglose a pantallas
+
+-----------------------------------------------------------------------------
+Estimacion Grupo 13
+
+- Desglose coordinado funciones
+- No estimar alto (Pensar en lo que te va a llevar), los margenes se hacen con las 	contingencias
+- VOLVER A DAR VUELTA AL TIEMPO DEL DESGLOSE
+- Meter en la memoria el informe
+- Revisar los 14 factores, no venirse arriba se esta metiendo sobrecoste y el cliente no 	lo esta pidiendo
+
+-----------------------------------------------------------------------------

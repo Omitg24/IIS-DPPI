@@ -1,0 +1,29 @@
+Presentaciones DPPI - PLanificación de Proyecto 
+
+----------------------------------------------------------------------------
+Planificacion Grupo 10
+
+- Desarrollar modulos gestión, documentacion, calidad, adquisicion de hardware **IMPORTANTE**
+- Añadir recursos personales instaladores
+
+-----------------------------------------------------------------------------
+Planificacion **Nuestro** Grupo 11
+
+- Documentación, mejor usar perfiles de bajo coste como junior
+- Falta el tema de hardware, mejor hacer otro projecto para el hardware que este vinculado.
+- Añadir recursos humanos encargados de la instalación y montaje.
+- Recortar recursos humanos en numero y reducir horas.
+- Bien subdividir analisis,diseño y pruebas por modulo, puede dar problemas planificar.
+- Añadir recursos materiales (router wifi)
+- No usar el término "recurso de trabajo" => "recurso humano"
+
+----------------------------------------------------------------------------
+Planificacion Grupo 12
+
+- No comentar
+
+----------------------------------------------------------------------------
+Planificacion Grupo 13
+
+- Hacer pruebas por modulos
+- Tecnico redes, sistemas

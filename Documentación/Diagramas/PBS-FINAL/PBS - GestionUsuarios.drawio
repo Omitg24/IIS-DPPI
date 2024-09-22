@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-04-27T15:02:18.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="qupvCvbO7OEfQTARFpre" version="23.1.5" type="device">
+  <diagram name="Página-1" id="DCFkGMG0sHfucF93xMDa">
+    <mxGraphModel dx="2074" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-1" value="Sistema de teleasistencia&lt;div&gt;Sanitaria&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="164" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-6" value="Módulo de gestión de usuarios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="333" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-8" value="Submódulo de manejo de historiales clinicos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="543" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-9" value="Submódulo de manejo de pruebas médicas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="543" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-10" value="Submódulo de manejo de citas clinicos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="543" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#E6E6E6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="ZKEV9CvCQXBc64IJoq-l-6" edge="1" source="ZKEV9CvCQXBc64IJoq-l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283" y="570" as="sourcePoint" />
+            <mxPoint x="483" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="283" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#E6E6E6;" parent="1" source="ZKEV9CvCQXBc64IJoq-l-6" target="ZKEV9CvCQXBc64IJoq-l-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="600" as="sourcePoint" />
+            <mxPoint x="483" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="483" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#E6E6E6;" parent="1" target="ZKEV9CvCQXBc64IJoq-l-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="483" y="510" as="sourcePoint" />
+            <mxPoint x="483" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKEV9CvCQXBc64IJoq-l-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#E6E6E6;" parent="1" source="ZKEV9CvCQXBc64IJoq-l-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="600" as="sourcePoint" />
+            <mxPoint x="483" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

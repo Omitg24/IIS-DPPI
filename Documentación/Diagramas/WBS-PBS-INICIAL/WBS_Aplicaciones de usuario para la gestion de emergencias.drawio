@@ -1,0 +1,530 @@
+<mxfile host="app.diagrams.net" modified="2024-04-05T10:54:08.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="THorLVrKUCvEjVRcs2UQ" version="24.2.2" type="device">
+  <diagram name="Página-1" id="DzEx-bB5uu2xmVerch2T">
+    <mxGraphModel dx="2740" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-1" value="Selección de casos de uso para la aplicación de usuario para la gestión de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="345" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="sourcePoint" />
+            <mxPoint x="-110" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-3" value="Casos de uso para la aplicación de usuario para la gestión de emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="340" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-4" value="Desarrolo del módulo de aplicación de usuario para la gestión de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-3" target="ZZHOrYQnqic8nMZqTezo-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-6" value="Selección de casos de uso para el registro de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="230" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="90" as="sourcePoint" />
+            <mxPoint x="230" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-10" value="Selección de casos de uso para el seguimiento de emergencias registradas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-11" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Selección de casos de uso para la asignación de recursos a emergencias&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="680" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="ZZHOrYQnqic8nMZqTezo-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="319.5" as="sourcePoint" />
+            <mxPoint x="230" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-6" edge="1" target="ZZHOrYQnqic8nMZqTezo-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="210" as="sourcePoint" />
+            <mxPoint x="410" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="ZZHOrYQnqic8nMZqTezo-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="199.5" as="sourcePoint" />
+            <mxPoint x="450" y="199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="319.5" as="sourcePoint" />
+            <mxPoint x="450" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-17" value="Casos de uso para el registro de emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-18" value="Casos de uso para el seguimiento de emergencias registradas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="165" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-19" value="Casos de uso para la asignación de recursos a emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-17" target="ZZHOrYQnqic8nMZqTezo-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="210" as="sourcePoint" />
+            <mxPoint x="610" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="319.5" as="sourcePoint" />
+            <mxPoint x="610" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-23" value="Desarrollo de la visualización del registro de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="50" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-24" value="Desarrollo del seguimiento de emergencias registradas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-25" value="Desarrollo de la asignación de recursos a emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-27" value="Desarrollo de la obtención de los registros" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-32" value="Desarrollo de la vista del seguimiento de emergencias registradas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-34" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="ZZHOrYQnqic8nMZqTezo-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570" y="200" as="sourcePoint" />
+            <mxPoint x="1570" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-35" value="Desarrollo de la lógica para almacenar los datos de emergencias en el sistema" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="50" width="139.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-42" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="ZZHOrYQnqic8nMZqTezo-35" edge="1" source="tBg8xjeybfWIEPiCI5H7-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570.5" y="80" as="sourcePoint" />
+            <mxPoint x="1530.5" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-43" value="Desarrollo de la obtención de los registros" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-44" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-43" edge="1" target="ZZHOrYQnqic8nMZqTezo-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="330" as="sourcePoint" />
+            <mxPoint x="1090" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-47" value="Desarrollo de la lógica de asignación de recursos a emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-48" value="Desarrollo de la vista de asignación de recursos a emergencias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-49" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-47" target="ZZHOrYQnqic8nMZqTezo-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="330" as="sourcePoint" />
+            <mxPoint x="880" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-50" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="ZZHOrYQnqic8nMZqTezo-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570" y="320" as="sourcePoint" />
+            <mxPoint x="1570" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="ZZHOrYQnqic8nMZqTezo-43" edge="1" source="ZZHOrYQnqic8nMZqTezo-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="320" as="sourcePoint" />
+            <mxPoint x="940" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-52" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-35" target="ZZHOrYQnqic8nMZqTezo-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="79.5" as="sourcePoint" />
+            <mxPoint x="890" y="79.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1690.5" y="80" as="sourcePoint" />
+            <mxPoint x="1730" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="680" as="sourcePoint" />
+            <mxPoint x="1730" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1690" y="200" as="sourcePoint" />
+            <mxPoint x="1730" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-56" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="319.5" as="sourcePoint" />
+            <mxPoint x="1690" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-57" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="ZZHOrYQnqic8nMZqTezo-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="79.86000000000001" as="sourcePoint" />
+            <mxPoint x="1730" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-58" value="Integración del sistema" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-59" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="380" as="sourcePoint" />
+            <mxPoint x="1940" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-60" value="Deployment del sistema" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-61" value="Desarrollo de la visualización de registro de emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-62" value="Desarrollo del seguimiento de emergencias registradas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-63" value="Desarrollo de la asignación de recursos a emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-64" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZHOrYQnqic8nMZqTezo-61" target="ZZHOrYQnqic8nMZqTezo-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="79" as="sourcePoint" />
+            <mxPoint x="770" y="79.33000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="ZZHOrYQnqic8nMZqTezo-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="319" as="sourcePoint" />
+            <mxPoint x="770" y="319.33000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-67" value="Desarrollo del módulo de registro de emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-68" value="Desarrollo del módulo de seguimiento de emergencias registradas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZHOrYQnqic8nMZqTezo-69" value="Desarrollo del módulo de asignación de recursos a emergencias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZHOrYQnqic8nMZqTezo-18" target="ZZHOrYQnqic8nMZqTezo-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="230" as="sourcePoint" />
+            <mxPoint x="980" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZHOrYQnqic8nMZqTezo-62" target="ZZHOrYQnqic8nMZqTezo-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="230" as="sourcePoint" />
+            <mxPoint x="980" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZHOrYQnqic8nMZqTezo-24" target="ZZHOrYQnqic8nMZqTezo-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="230" as="sourcePoint" />
+            <mxPoint x="1200" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZHOrYQnqic8nMZqTezo-27" target="ZZHOrYQnqic8nMZqTezo-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="230" as="sourcePoint" />
+            <mxPoint x="1350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-10" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Selección de casos de uso para generación de informes de estado de emergencias&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="439.5" as="sourcePoint" />
+            <mxPoint x="455" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-12" value="Casos de uso para la generación de informes de estado de emergencias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="400" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="615" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-14" value="Desarrollo de la generación de informes de estado de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-15" value="Desarrollo de la obtención de los registros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-15" target="tBg8xjeybfWIEPiCI5H7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="835" y="450" as="sourcePoint" />
+            <mxPoint x="1095" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-17" value="Desarrollo de la lógica de generación de informes de estado de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="410" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-18" value="Desarrollo de la vista de generación de informes de estado de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="410" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-17" target="tBg8xjeybfWIEPiCI5H7-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="835" y="450" as="sourcePoint" />
+            <mxPoint x="885" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1575" y="440" as="sourcePoint" />
+            <mxPoint x="1575" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-14" target="tBg8xjeybfWIEPiCI5H7-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="895" y="440" as="sourcePoint" />
+            <mxPoint x="945" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-22" value="Desarrollo de la generación de informes de estado de emergencias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="440" as="sourcePoint" />
+            <mxPoint x="775" y="439.3299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-24" value="Desarrollo del módulo de generación de informes de estado de emergencias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="330" as="sourcePoint" />
+            <mxPoint x="230" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="440" as="sourcePoint" />
+            <mxPoint x="1700" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="559.5" as="sourcePoint" />
+            <mxPoint x="445" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-29" value="Casos de uso para la gestión de recursos en emergencias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="520" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="605" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-31" value="Desarrollo de la gestión de recursos en emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-32" value="Desarrollo de la obtención de los registros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-32" target="tBg8xjeybfWIEPiCI5H7-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="570" as="sourcePoint" />
+            <mxPoint x="1085" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-34" value="Desarrollo de la lógica de gestión de recursos en emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="530" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-35" value="Desarrollo de la vista de gestión de recursos en emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="530" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-34" target="tBg8xjeybfWIEPiCI5H7-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="570" as="sourcePoint" />
+            <mxPoint x="875" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-37" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1565" y="560" as="sourcePoint" />
+            <mxPoint x="1565" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-31" target="tBg8xjeybfWIEPiCI5H7-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="560" as="sourcePoint" />
+            <mxPoint x="935" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-39" value="Desarrollo de la gestión de recursos en emergencias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="560" as="sourcePoint" />
+            <mxPoint x="765" y="559.3299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-41" value="Desarrollo del módulo de gestión de recursos en emergencias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="558.75" as="sourcePoint" />
+            <mxPoint x="230" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-43" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="560" as="sourcePoint" />
+            <mxPoint x="1730" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-44" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Selección de casos de uso para la gestión de recursos en emergencias&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="530" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-45" value="Desarrollo de la vista del registro de emergencias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1392.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-46" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZHOrYQnqic8nMZqTezo-67" target="tBg8xjeybfWIEPiCI5H7-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1403" y="90" as="sourcePoint" />
+            <mxPoint x="1350" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-47" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="679.5" as="sourcePoint" />
+            <mxPoint x="445" y="679.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-48" value="Casos de uso para la comunicación con servicios externos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="640" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="680" as="sourcePoint" />
+            <mxPoint x="605" y="679.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-50" value="Desarrollo de la comunicación con servicios externos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-51" value="Desarrollo de la obtención de los registros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-52" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-51" target="tBg8xjeybfWIEPiCI5H7-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="690" as="sourcePoint" />
+            <mxPoint x="1085" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-53" value="Desarrollo de la lógica de la comunicación con servicios externos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="650" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-54" value="Desarrollo de la vista de comunicación con servicios externos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="650" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-53" target="tBg8xjeybfWIEPiCI5H7-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="690" as="sourcePoint" />
+            <mxPoint x="875" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-56" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1565" y="680" as="sourcePoint" />
+            <mxPoint x="1565" y="760" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-50" target="tBg8xjeybfWIEPiCI5H7-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="680" as="sourcePoint" />
+            <mxPoint x="935" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-58" value="Desarrollo de la comunicación con servicios externos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="680" as="sourcePoint" />
+            <mxPoint x="765" y="679.3299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-60" value="Desarrollo del módulo de comunicación con servicios externos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBg8xjeybfWIEPiCI5H7-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="678.75" as="sourcePoint" />
+            <mxPoint x="230" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-62" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBg8xjeybfWIEPiCI5H7-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="680" as="sourcePoint" />
+            <mxPoint x="1730" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-63" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Selección de casos de uso para la comunicación con servicios externos&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="650" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBg8xjeybfWIEPiCI5H7-98" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZZHOrYQnqic8nMZqTezo-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="200" as="sourcePoint" />
+            <mxPoint x="810" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

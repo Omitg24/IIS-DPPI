@@ -1,0 +1,227 @@
+<mxfile host="app.diagrams.net" modified="2024-03-18T13:02:24.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1Qk8Fej3bR7figL4hGqQ" version="24.0.7" type="device">
+  <diagram name="Página-1" id="Kdf8SZD2adkKAj-GKG86">
+    <mxGraphModel dx="1994" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vBV7605bagt_1pm_sCDo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-3" target="vBV7605bagt_1pm_sCDo-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-3" value="Desarrollo de aplicaciónes de avisos y mensajería" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-4" value="Selección de casos de uso para aplicacion de avisos y mensajería" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-690" y="175" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-5" target="vBV7605bagt_1pm_sCDo-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-5" value="Desarrollo de aplicación&amp;nbsp;&lt;div&gt;de avisos y mensajería&lt;div&gt;utilizando Flutter&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-9" target="vBV7605bagt_1pm_sCDo-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-9" value="Selección de casos de uso para componente de avisos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-10" target="vBV7605bagt_1pm_sCDo-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-10" value="Desarrollo de componente de avisos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vBV7605bagt_1pm_sCDo-44" target="vBV7605bagt_1pm_sCDo-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="230" as="sourcePoint" />
+            <mxPoint x="-30" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vBV7605bagt_1pm_sCDo-36" target="vBV7605bagt_1pm_sCDo-57" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="210" />
+              <mxPoint x="360" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-31" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vBV7605bagt_1pm_sCDo-36" target="vBV7605bagt_1pm_sCDo-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="210" />
+              <mxPoint x="360" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-34" target="vBV7605bagt_1pm_sCDo-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-34" value="Casos de uso de aplicaciones de avisos y mensajería" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="170" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vBV7605bagt_1pm_sCDo-4" target="vBV7605bagt_1pm_sCDo-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="-30" as="sourcePoint" />
+            <mxPoint x="170" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-36" value="Aplicación IOS de avisos y mensajería" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="170" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-44" value="Aplicación IOS y Android de avisos y mensajería" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="170" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-50" target="vBV7605bagt_1pm_sCDo-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-50" value="Casos de uso componente avisos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vBV7605bagt_1pm_sCDo-51" target="vBV7605bagt_1pm_sCDo-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="120" />
+              <mxPoint x="1130" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-51" value="Componente de avisos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-57" target="vBV7605bagt_1pm_sCDo-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-57" value="Selección de casos de uso para componente de mensajería" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-59" target="vBV7605bagt_1pm_sCDo-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-59" value="Desarrollo de componente de mensajería" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="vBV7605bagt_1pm_sCDo-63" target="vBV7605bagt_1pm_sCDo-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-63" value="Casos de uso componente de mensajería" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="230" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vBV7605bagt_1pm_sCDo-64" target="vBV7605bagt_1pm_sCDo-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="270" />
+              <mxPoint x="1130" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-64" value="Componente de mensajería" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="230" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBV7605bagt_1pm_sCDo-85" value="Aplicación de mensajería y avisos en Flutter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-3" value="Hacer el build para android" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21rj4YJQeAk5Lj1QOQrX-3" target="vBV7605bagt_1pm_sCDo-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="sourcePoint" />
+            <mxPoint x="1290" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-5" value="Hacer el build para IOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21rj4YJQeAk5Lj1QOQrX-5" target="vBV7605bagt_1pm_sCDo-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="395" as="sourcePoint" />
+            <mxPoint x="1290" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-8" value="APK de aplicación de avisos y mensajería para Android" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="21rj4YJQeAk5Lj1QOQrX-8" source="21rj4YJQeAk5Lj1QOQrX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-12" value="Archivo .IPA de aplicación de avisos y mensajería para IOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="21rj4YJQeAk5Lj1QOQrX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-16" value="Instalación de aplicación Android" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21rj4YJQeAk5Lj1QOQrX-16" target="21rj4YJQeAk5Lj1QOQrX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="260" as="sourcePoint" />
+            <mxPoint x="1630" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-18" value="Instalación de aplicación IOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21rj4YJQeAk5Lj1QOQrX-18" target="21rj4YJQeAk5Lj1QOQrX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="400" as="sourcePoint" />
+            <mxPoint x="1680" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-20" value="Integración" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="21rj4YJQeAk5Lj1QOQrX-20" source="21rj4YJQeAk5Lj1QOQrX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="120" />
+              <mxPoint x="1840" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21rj4YJQeAk5Lj1QOQrX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21rj4YJQeAk5Lj1QOQrX-18" target="21rj4YJQeAk5Lj1QOQrX-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1830" y="160" as="sourcePoint" />
+            <mxPoint x="1870" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="270" />
+              <mxPoint x="1840" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

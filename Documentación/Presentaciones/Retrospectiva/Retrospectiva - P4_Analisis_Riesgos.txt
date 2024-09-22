@@ -1,0 +1,47 @@
+Poner empleados empresa -> (añadir más que los del proyecto)
+Se puede usar el ejemplo, tiene suledos realistas.
+
+Variar % prod -> coincidir costes del proyecto
+No poner el 100%
+
+Horas laborables 1600-1700 consultar este año
+
+Hacer calcula para precio/hora
+Nuestro proyecto calcular con beneficios.
+
+Incluir resumen pagina 10 pdf ejemplo
+
+0,25 el km
+
+No meter incrementos en el hardware, el cliente puede consultarlo.
+
+Aplicar ponderacion a cada punto de la partida.
+
+
+
+|---------------------Revisión de riesgos---------------------|
+
+1- Grupo 10
+Retraso tecnologias, nuevas tecnologias se lanzan tarde
+Huelgas
+Avance IA
+Aumento precio recursos
+Hardware defectuoso
+**Quitar cambios de funcionalidad
+
+2- Grupo 11
+**Quitar cambios de funcionalidad
+
+3- Grupo 12
+Baja de empleado, atleta
+Hardware defectuoso //
+Sistema mas usable, menos formacion
+**Transferir el riesgo
+
+4- Grupo 13
+Inflación - conflictos internacionales suben precios
+ley de cooikes
+Ayuntamiento ovi - dar permisos
+poca aceptacion
+Caidas de red
+**
